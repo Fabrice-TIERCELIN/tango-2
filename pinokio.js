@@ -1,8 +1,8 @@
 const path = require('path')
 module.exports = {
-  version: "1.1",
-  title: "BRIA RMBG",
-  description: "Background removal model developed by BRIA.AI, trained on a carefully selected dataset and is available as an open-source model for non-commercial use https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4",
+  version: "1.0",
+  title: "Tango 2",
+  description: "Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization developed by declare-lab",
   icon: "icon.webp",
   menu: async (kernel) => {
     let installing = await kernel.running(__dirname, "install.js")
