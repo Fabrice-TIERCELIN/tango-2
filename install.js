@@ -7,7 +7,7 @@ module.exports = {
   "run": [{
     "method": "shell.run",
     "params": {
-      "message": "git clone https://huggingface.co/spaces/cocktailpeanut/BRIA-RMBG-1.4 app"
+      "message": "git clone https://huggingface.co/spaces/Fabrice-TIERCELIN/Text-to-Audio app"
     }
   }, {
     "method": "shell.run",
