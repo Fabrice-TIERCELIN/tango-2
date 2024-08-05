@@ -7,7 +7,7 @@ module.exports = {
   "run": [{
     "method": "shell.run",
     "params": {
-      "message": "git clone https://huggingface.co/spaces/Fabrice-TIERCELIN/Text-to-Audio app"
+      "message": "git clone https://huggingface.co/spaces/Fabrice-TIERCELIN/for-pinokio app"
     }
   }, {
     "method": "shell.run",
